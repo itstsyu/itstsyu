@@ -4,5 +4,6 @@
     <ul>
         <li><b>Age: </b>13</li>
         <li><b>Hobbies: </b>Programming</li>
+        <li>Software developer using Java, JS C# and Python.</li>
     </ul>
 </div>
