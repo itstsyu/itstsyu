@@ -1,6 +1,5 @@
 <div>
-    <h2 align="left">ㅤ$ 𝙬𝙝𝙤𝙖𝙢𝙞</h2>
-    <img src="aboutme.gif" align="right" width=486 height=270 alt="aboutme image">
+    <h2 align="left">$ 𝙬𝙝𝙤𝙖𝙢𝙞</h2>
     <p align="left">I'm Syfe, a college student taking 3 A-Levels, Physics, Maths and Further Maths in the UK.<br>I like to do some development on various projects that spark my interest. I'm a self taught developer, so most of my practices are personally made or a mix of readily available standards with my own spin on it.</p>
     <ul>
         <li><b>Age: </b>16</li>
