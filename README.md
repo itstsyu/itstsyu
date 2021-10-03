@@ -1,5 +1,3 @@
-# Tsyu
-
 <div>
     <h2 align="left">ㅤ$ 𝙬𝙝𝙤𝙖𝙢𝙞</h2>
     <img src="aboutme.gif" align="right" width=486 height=270 alt="aboutme image">
