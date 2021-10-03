@@ -4,6 +4,5 @@
     <ul>
         <li><b>Age: </b>13</li>
         <li><b>Hobbies: </b>Programming</li>
-        <li><b>Friends: </b><a href="https://github.com/AquaPlaysYT">Aqua</a>, <a href="https://github.com/PsychoPast">Psycho</a>, <a href="https://github.com/SiLeNSwOrD">Droidy</a></li>
     </ul>
 </div>
